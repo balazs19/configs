@@ -1,0 +1,185 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/user/
+	..
+1596449051
+'b
+	/home/user/bin/
+	..
+1596449051
+'h
+	/home/user/
+	..
+1596449051
+
+# Bookmarks:
+
+# TUI:
+ar
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/user
+	.att_backups
+1
+d/home/user/.att_backups
+	..
+0
+d/home/user
+	.bin
+2
+d/home/user/.bin
+	..
+0
+d/home/user
+	.bin
+2
+d/home/user/.bin
+	..
+0
+d/home/user
+	.cache
+3
+d/home/user/.cache
+	..
+0
+d/home/user
+	.config
+4
+d/home/user/.config
+	..
+0
+d/home/user
+	.icons
+5
+d/home/user/.icons
+	default
+1
+d/home/user/.icons/default
+	..
+0
+d/home/user/.icons
+	default
+1
+d/home/user
+	.local
+6
+d/home/user/.local
+	..
+0
+d/home/user
+	.local
+6
+d/home/user/.local
+	share
+1
+d/home/user/.local/share
+	..
+0
+d/home/user/.local
+	share
+1
+d/home/user
+	.mozilla
+7
+d/home/user/.mozilla
+	firefox
+2
+d/home/user/.mozilla/firefox
+	..
+0
+d/home/user/.mozilla
+	extensions
+1
+d/home/user/.mozilla/extensions
+	..
+0
+d/home/user/.mozilla
+	extensions
+1
+d/home/user
+	.config
+3
+d/home/user/.config
+	volumeicon
+17
+d/home/user/.config/volumeicon
+	..
+0
+d/home/user/.config
+	autostart
+4
+d/home/user/.config/autostart
+	..
+0
+d/home/user/.config
+	arcolinux-tweak-tool
+3
+d/home/user/.config/arcolinux-tweak-tool
+	..
+0
+d/home/user/.config
+	Thunar
+2
+d/home/user/.config/Thunar
+	..
+0
+d/home/user/.config
+	..
+0
+d/home/user
+	..
+0
+d/home
+	..
+0
+d/
+	home
+4
+d/home
+	user
+1
+d/home/user
+	..
+0
+d
+
+# Right window history (oldest to newest):
+D/home/user
+	Zenék
+9
+D
+
+# Command line history (oldest to newest):
+:rm -rf Thunar
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].1
+]F
+s0
